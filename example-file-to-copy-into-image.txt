@@ -1,0 +1,1 @@
+Yep, the file "example-file-to-copy-into-image.txt" is in the image!
